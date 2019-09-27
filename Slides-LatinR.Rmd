@@ -41,7 +41,7 @@ class: split-two
 .font_large.comfortaa[LatinR 2019, Santiago, Chile</br>
 27 Septiembre, 2019]
 </br>
-.font_large[`r anicon::faa('link', animate='vertical', rtext='&nbsp;https://bit.ly/2nbSV4A', color='white')`
+.font_large[`r anicon::faa('link', animate='vertical', rtext='&nbsp;https://bit.ly/2nMINjf', color='white')`
 ]
 ]
 .column.bg-main3.center[
